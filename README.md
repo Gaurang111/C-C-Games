@@ -1,5 +1,5 @@
 # C/C++Games
-This Repository contains some of the Games/projects I've built on my 1st-year of College
+This Repository contains some of the Games/projects I've built in my 1st-year of College
 
 Games/Project were build on the "Turbo C++ windows 7" Application. It may happen that source code will produce an error trying to run on different Application
 because some of the in-build functions that is used might not be available as in-build functions for different Applications.
