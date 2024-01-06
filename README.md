@@ -25,11 +25,7 @@ Classic Snake and Ladder, but sans snakes and ladders. Just roll the dice, race 
 
 ### RealEstate
 
-I dabbled in real estate too. Sign up, log in, and start house-hunting. I sprinkled some ASCII magic for that extra flair.
-
-### RealEstate_Dataset
-
-This one's for data entry in the RealEstate project. Keep in mind, the data's as fake as my excuses for being late to class.
+I dabbled in real estate too. Sign up, log in, and start house-hunting. I sprinkled some ASCII magic for that extra flair. Also, Facilitate data entry on other program, utilizing ifstream for efficient data file handling. Note that the data utilized is entirely fictional.
 
 
 
