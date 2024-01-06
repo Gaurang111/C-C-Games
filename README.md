@@ -1,23 +1,37 @@
-# C/C++Games
-This Repository contains some of the Games/projects I've built in my 1st-year of College
+# College Year 1 Games and Projects
 
-Games/Project were build on the "Turbo C++ windows 7" Application. It may happen that source code will produce an error trying to run on different Application
-because some of the in-build functions that is used might not be available as in-build functions for different Applications.
+Hey there! This repo holds some games/projects I whipped up during my first year of college.
 
 
-Preview: This word file contains ScreenShots of all the programs output. 
+## Game Glimpse
 
-Amazing_T3: T3 stands for tic-tack-toe, its not just an ordinary tic-tack-toe game, I have used ASCII values in a creative way so that it makes it more Interactive, Attractive and User-friendly to play.
+### Amazing_T3
 
-CatchThem: The game is about "After the prison breaks down, All the prisoners are roaming free in the city, We are cops and task is to catch all the prisoners". Score will counted based on Number of Prisoners will catch.
+Ever played tic-tac-toe and thought, "This needs more pizzazz!"? No? Well, I did. Check out Amazing_T3 – it's got ASCII vibes to make it way cooler.
 
-Lost_In_maze: This game is all about reaching to your friend on another side of the maze.
 
-NoSnakes_NoLadder: Name itself says, Snake and ladder but without Snakes and Ladder, play with your friend, Roll the dice and reach home, SIMPLE!
 
-RealEstate: This Project is based on RealEstate Consultancy Application. Sign Up your account with personal info and Password,Login to your account and you are ready to search Properties. I've used ASCII values in such way that is makes it  Interactive, Attractive and User-friendly to play.
+### CatchThem
 
-RealEstate_Dataset: This program is created to enter Database* for the above project, I've use of/ifstream for data file handling. (* DATA is FAKE) 
+Picture this: prison break, chaos, and you – a cop rounding up escaped prisoners. Score? Based on how many baddies you catch.
+
+### Lost_In_Maze
+
+Just a game of finding your buddy in a maze. Simple, yet surprisingly tricky.
+
+### NoSnakes_NoLadder
+
+Classic Snake and Ladder, but sans snakes and ladders. Just roll the dice, race your pals home – easy peasy.
+
+### RealEstate
+
+I dabbled in real estate too. Sign up, log in, and start house-hunting. I sprinkled some ASCII magic for that extra flair.
+
+### RealEstate_Dataset
+
+This one's for data entry in the RealEstate project. Keep in mind, the data's as fake as my excuses for being late to class.
+
+
 
 
 
